@@ -1,0 +1,49 @@
+
+
+.navbar ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    gap: 20px;
+}
+
+.navbar {
+    background-color: #f8f9fa; 
+    padding: 10px;
+    border: 2px solid black; 
+}
+
+.link-container {
+    text-align: right; 
+}
+
+.icons{
+    background-color: orange;
+    text-align: center;
+    margin: 30px;
+    border: 2px solid black;
+}
+
+
+.social-icon i{
+    margin: 10px;
+    font-size: 30px;
+    color:black;
+} 
+
+
+.container{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    background-color: lightyellow;
+    padding: 10px;
+    margin-top: 10PX;
+}
+
+.cards{
+    padding: 10px;
+    margin: 15px;
+    text-align: center;
+}

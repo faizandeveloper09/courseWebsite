@@ -1,0 +1,15 @@
+
+.icons{
+    background-color: orange;
+    text-align: center;
+    margin: 30px;
+    border: 2px solid black;
+}
+
+
+.social-icon i{
+    margin: 10px;
+    font-size: 30px;
+    color:black;
+} 
+
